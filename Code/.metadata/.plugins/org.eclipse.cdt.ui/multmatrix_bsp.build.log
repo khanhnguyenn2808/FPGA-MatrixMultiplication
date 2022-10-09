@@ -1,0 +1,6 @@
+11:49:48 **** Clean-only build of configuration Nios II for project multmatrix_bsp ****
+make clean 
+[BSP clean complete]
+
+11:49:48 Build Finished (took 246ms)
+
